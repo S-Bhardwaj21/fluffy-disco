@@ -1,0 +1,6 @@
+POLICY_ID,POLICY_NAME,POLICY_TEXT,VERSION,EFFECTIVE_DATE
+POL-001,Invoice Variance,Invoices within 5 percent of an approved PO may be automatically reconciled when supporting contractual evidence exists.,3.1,2026-01-01
+POL-002,Duplicate Payment,Potential duplicate invoices must never be automatically paid or resolved without verification.,2.4,2026-01-01
+POL-003,Shipment Escalation,Delays exceeding 10 days or affecting a committed customer order require human escalation.,4.0,2026-01-01
+POL-004,Contract Authority,Approved contract amendments supersede stale ERP values when amendment effective date precedes invoice or shipment commitment.,5.2,2026-01-01
+POL-005,Evidence Sufficiency,Conflicting or incomplete evidence must not be resolved automatically. Additional evidence or human review is required.,1.8,2026-01-01

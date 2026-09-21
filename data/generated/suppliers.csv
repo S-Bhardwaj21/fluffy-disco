@@ -1,0 +1,121 @@
+SUPPLIER_ID,SUPPLIER_NAME,CATEGORY,COUNTRY,RISK_LEVEL,STATUS
+SUP-0001,"Rodriguez, Figueroa and Sanchez",Industrial,India,MEDIUM,ACTIVE
+SUP-0002,Doyle Ltd,Packaging,UK,LOW,ACTIVE
+SUP-0003,"Mcclain, Miller and Henderson",Industrial,Singapore,LOW,ACTIVE
+SUP-0004,Davis and Sons,Chemicals,USA,LOW,ACTIVE
+SUP-0005,"Guzman, Hoffman and Baldwin",Chemicals,UK,LOW,ACTIVE
+SUP-0006,"Gardner, Robinson and Lawrence",Chemicals,Japan,LOW,ACTIVE
+SUP-0007,Blake and Sons,Electronics,France,MEDIUM,ACTIVE
+SUP-0008,"Henderson, Ramirez and Lewis",Logistics,Germany,LOW,ON_HOLD
+SUP-0009,Garcia-James,Logistics,India,LOW,ACTIVE
+SUP-0010,Abbott-Munoz,Logistics,Singapore,LOW,ACTIVE
+SUP-0011,Blair PLC,IT Hardware,Singapore,LOW,ACTIVE
+SUP-0012,Dudley Group,Industrial,Singapore,LOW,ACTIVE
+SUP-0013,Arnold Ltd,Logistics,Singapore,LOW,ACTIVE
+SUP-0014,"Mcclure, Ward and Lee",Chemicals,France,LOW,ACTIVE
+SUP-0015,Williams and Sons,Chemicals,France,LOW,ACTIVE
+SUP-0016,Galloway-Wyatt,Logistics,USA,LOW,ACTIVE
+SUP-0017,James Group,Machinery,UK,HIGH,ACTIVE
+SUP-0018,"Flowers, Martin and Kelly",Packaging,Singapore,MEDIUM,ACTIVE
+SUP-0019,"Adams, Zuniga and Wong",Components,Germany,HIGH,ACTIVE
+SUP-0020,"Reid, Ferguson and Sanchez",Chemicals,UK,LOW,ACTIVE
+SUP-0021,Gray-Mayo,Electronics,USA,MEDIUM,ACTIVE
+SUP-0022,"Watts, Robinson and Nguyen",Components,Germany,LOW,ACTIVE
+SUP-0023,Perez Inc,Logistics,USA,MEDIUM,ACTIVE
+SUP-0024,Morales-Jones,IT Hardware,USA,LOW,ACTIVE
+SUP-0025,"Walter, Edwards and Rios",Machinery,UK,LOW,ACTIVE
+SUP-0026,Wilkerson-Day,Components,Germany,LOW,ON_HOLD
+SUP-0027,Baker and Sons,IT Hardware,India,MEDIUM,ACTIVE
+SUP-0028,"Hoffman, Baker and Richards",Packaging,UK,LOW,ACTIVE
+SUP-0029,"Ross, Robinson and Bright",Industrial,Japan,LOW,ON_HOLD
+SUP-0030,"Snyder, Campos and Callahan",Machinery,Singapore,MEDIUM,ACTIVE
+SUP-0031,Burton Ltd,Industrial,UK,MEDIUM,ACTIVE
+SUP-0032,Carlson-Cruz,Logistics,India,LOW,ACTIVE
+SUP-0033,"Ferrell, Rice and Maddox",Electronics,UK,MEDIUM,ACTIVE
+SUP-0034,Frazier Inc,Packaging,Singapore,MEDIUM,ACTIVE
+SUP-0035,"Dyer, Potter and Mack",Machinery,France,LOW,ACTIVE
+SUP-0036,Rodriguez-Graham,Packaging,Germany,MEDIUM,ACTIVE
+SUP-0037,Smith-Bowen,Electronics,Singapore,LOW,ACTIVE
+SUP-0038,"Baker, Mason and White",Logistics,France,MEDIUM,ACTIVE
+SUP-0039,Harrell LLC,Chemicals,Singapore,HIGH,ACTIVE
+SUP-0040,"Romero, Gonzalez and Brooks",IT Hardware,France,LOW,ACTIVE
+SUP-0041,Ryan PLC,Packaging,USA,MEDIUM,ACTIVE
+SUP-0042,George Group,Packaging,Germany,LOW,ACTIVE
+SUP-0043,Rodriguez LLC,Chemicals,Singapore,MEDIUM,ACTIVE
+SUP-0044,Allen-Allen,Machinery,Japan,HIGH,ACTIVE
+SUP-0045,"Arroyo, Miller and Tucker",IT Hardware,Singapore,LOW,ACTIVE
+SUP-0046,Spence PLC,Industrial,Germany,LOW,ACTIVE
+SUP-0047,Anderson Group,Chemicals,India,LOW,ACTIVE
+SUP-0048,"Martin, Rose and Obrien",Chemicals,India,MEDIUM,ACTIVE
+SUP-0049,Hickman Ltd,Industrial,Singapore,LOW,ACTIVE
+SUP-0050,"Harris, Collins and Carney",Chemicals,Singapore,LOW,ACTIVE
+SUP-0051,"Brooks, Lam and Hayes",IT Hardware,USA,MEDIUM,ACTIVE
+SUP-0052,Walker LLC,Chemicals,India,LOW,ACTIVE
+SUP-0053,Chapman and Sons,Components,Japan,LOW,ACTIVE
+SUP-0054,"Robinson, Jones and Welch",Industrial,India,LOW,ACTIVE
+SUP-0055,Jones Inc,Industrial,USA,LOW,ACTIVE
+SUP-0056,Jones-Young,Packaging,Japan,LOW,ACTIVE
+SUP-0057,"Washington, Ryan and Cummings",Industrial,Japan,MEDIUM,ACTIVE
+SUP-0058,"Johnston, Sanchez and Kennedy",Industrial,India,MEDIUM,ACTIVE
+SUP-0059,Lee-Davis,Electronics,India,MEDIUM,ACTIVE
+SUP-0060,Gomez-Jenkins,Packaging,Japan,LOW,ACTIVE
+SUP-0061,"Brown, Valdez and Lucas",Components,India,LOW,ACTIVE
+SUP-0062,Powell LLC,Components,Germany,MEDIUM,ACTIVE
+SUP-0063,Wright and Sons,Machinery,Japan,MEDIUM,ACTIVE
+SUP-0064,"West, Henderson and Ramirez",IT Hardware,USA,LOW,ACTIVE
+SUP-0065,Baxter Inc,Electronics,Singapore,MEDIUM,ACTIVE
+SUP-0066,Morton-Chase,Logistics,India,LOW,ACTIVE
+SUP-0067,Williams PLC,Packaging,India,HIGH,ACTIVE
+SUP-0068,Novak and Sons,Packaging,India,LOW,ACTIVE
+SUP-0069,Russell Group,Chemicals,Japan,LOW,ACTIVE
+SUP-0070,Hancock Inc,Chemicals,Singapore,LOW,ACTIVE
+SUP-0071,Gray Group,Components,UK,LOW,ACTIVE
+SUP-0072,House-Glover,Machinery,USA,MEDIUM,ACTIVE
+SUP-0073,Henderson-Bernard,Machinery,Japan,LOW,ACTIVE
+SUP-0074,"Stanley, Tucker and Lee",IT Hardware,Germany,MEDIUM,ACTIVE
+SUP-0075,Novak PLC,Electronics,Japan,LOW,ACTIVE
+SUP-0076,"Daniels, Adkins and Brown",Industrial,India,LOW,ACTIVE
+SUP-0077,"Woods, Calhoun and Schmidt",Packaging,Germany,MEDIUM,ACTIVE
+SUP-0078,Yu Inc,Logistics,Germany,LOW,ACTIVE
+SUP-0079,Jones Inc,Machinery,Singapore,HIGH,ACTIVE
+SUP-0080,"Hensley, Powell and David",Electronics,UK,MEDIUM,ACTIVE
+SUP-0081,"Sanchez, Wheeler and Harvey",Industrial,USA,LOW,ACTIVE
+SUP-0082,Sandoval-Cunningham,Packaging,Germany,LOW,ACTIVE
+SUP-0083,Donovan-Harris,Logistics,USA,MEDIUM,ACTIVE
+SUP-0084,"Edwards, Baker and Anderson",IT Hardware,Germany,MEDIUM,ACTIVE
+SUP-0085,"Evans, Stewart and Walton",Industrial,UK,LOW,ACTIVE
+SUP-0086,Smith PLC,Electronics,Germany,MEDIUM,ACTIVE
+SUP-0087,"Ferrell, Jones and Lewis",Machinery,USA,MEDIUM,ACTIVE
+SUP-0088,Anderson-Bailey,Components,Singapore,LOW,ACTIVE
+SUP-0089,Suarez LLC,Packaging,Singapore,LOW,ACTIVE
+SUP-0090,Moore-Bass,Packaging,Japan,LOW,ACTIVE
+SUP-0091,"Turner, Riggs and Roman",Electronics,Germany,LOW,ACTIVE
+SUP-0092,"Smith, Montoya and Evans",Industrial,Germany,MEDIUM,ACTIVE
+SUP-0093,"Garcia, Humphrey and Baker",Components,Singapore,MEDIUM,ACTIVE
+SUP-0094,Newton and Sons,Chemicals,France,LOW,ACTIVE
+SUP-0095,Campbell-Clark,Packaging,Japan,LOW,ACTIVE
+SUP-0096,Harris-Walters,Logistics,France,HIGH,ACTIVE
+SUP-0097,Wagner-King,Chemicals,Germany,LOW,ACTIVE
+SUP-0098,Davis Group,Components,France,LOW,ACTIVE
+SUP-0099,Williams-Cook,Chemicals,France,MEDIUM,ACTIVE
+SUP-0100,Walsh LLC,Chemicals,USA,LOW,ACTIVE
+SUP-0101,Figueroa PLC,Logistics,Germany,MEDIUM,ON_HOLD
+SUP-0102,"Patterson, Smith and Jones",Machinery,Germany,LOW,ACTIVE
+SUP-0103,"Mckee, Gardner and Davenport",Logistics,India,LOW,ON_HOLD
+SUP-0104,"Tran, Jordan and Williams",Packaging,Singapore,HIGH,ACTIVE
+SUP-0105,Nolan-Flynn,Industrial,Singapore,LOW,ACTIVE
+SUP-0106,Nolan and Sons,Logistics,Japan,LOW,ACTIVE
+SUP-0107,"Wright, Garcia and Deleon",Components,Singapore,LOW,ACTIVE
+SUP-0108,Dickson-Brady,Components,India,LOW,ACTIVE
+SUP-0109,Hancock and Sons,Chemicals,Germany,LOW,ACTIVE
+SUP-0110,Johnson-Doyle,Logistics,Singapore,LOW,ACTIVE
+SUP-0111,Patton-Jenkins,Machinery,Singapore,LOW,ACTIVE
+SUP-0112,"Shields, Cochran and Adams",Components,UK,LOW,ACTIVE
+SUP-0113,"Rodriguez, Brennan and Garrison",Components,UK,HIGH,ACTIVE
+SUP-0114,Gonzalez Group,Packaging,Singapore,LOW,ACTIVE
+SUP-0115,Torres-Pope,Electronics,Germany,LOW,ACTIVE
+SUP-0116,Walker Ltd,Logistics,Japan,LOW,ACTIVE
+SUP-0117,Ross LLC,IT Hardware,France,MEDIUM,ACTIVE
+SUP-0118,Rasmussen LLC,Packaging,UK,LOW,ACTIVE
+SUP-0119,May-Ross,Logistics,India,MEDIUM,ACTIVE
+SUP-0120,"Rivera, Johnson and Wiley",Machinery,USA,MEDIUM,ACTIVE

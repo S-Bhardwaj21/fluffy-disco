@@ -1,0 +1,109 @@
+AUDIT_ID,EXCEPTION_ID,TIMESTAMP,STAGE,AGENT,ACTION,DECISION,REASON,EVIDENCE
+AUD-EXC-0001,EXC-0001,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice exceeds PO amount by 8%.
+AUD-EXC-0002,EXC-0002,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount materially exceeds PO amount with no approved amendment.
+AUD-EXC-0003,EXC-0003,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,PO price differs from current contract price.
+AUD-EXC-0004,EXC-0004,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice duplicates an existing invoice by supplier, PO and amount."
+AUD-EXC-0005,EXC-0005,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment is five days beyond committed delivery date.
+AUD-EXC-0006,EXC-0006,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment is materially late and affects downstream customer commitments.
+AUD-EXC-0007,EXC-0007,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Payment terms conflict with the active contract policy.
+AUD-EXC-0008,EXC-0008,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Customer and ERP records contain conflicting order state.
+AUD-EXC-0009,EXC-0009,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0010,EXC-0010,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0011,EXC-0011,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0012,EXC-0012,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0013,EXC-0013,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0014,EXC-0014,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0015,EXC-0015,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0016,EXC-0016,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0017,EXC-0017,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0018,EXC-0018,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0019,EXC-0019,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0020,EXC-0020,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0021,EXC-0021,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0022,EXC-0022,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0023,EXC-0023,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 8%.
+AUD-EXC-0024,EXC-0024,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0025,EXC-0025,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0026,EXC-0026,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 12%.
+AUD-EXC-0027,EXC-0027,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 7%.
+AUD-EXC-0028,EXC-0028,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0029,EXC-0029,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0030,EXC-0030,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0031,EXC-0031,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0032,EXC-0032,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0033,EXC-0033,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0034,EXC-0034,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0035,EXC-0035,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0036,EXC-0036,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 8%.
+AUD-EXC-0037,EXC-0037,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0038,EXC-0038,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0039,EXC-0039,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 7%.
+AUD-EXC-0040,EXC-0040,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0041,EXC-0041,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0042,EXC-0042,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0043,EXC-0043,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0044,EXC-0044,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 7%.
+AUD-EXC-0045,EXC-0045,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0046,EXC-0046,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0047,EXC-0047,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0048,EXC-0048,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0049,EXC-0049,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0050,EXC-0050,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0051,EXC-0051,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0052,EXC-0052,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0053,EXC-0053,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0054,EXC-0054,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 11%.
+AUD-EXC-0055,EXC-0055,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 7%.
+AUD-EXC-0056,EXC-0056,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0057,EXC-0057,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0058,EXC-0058,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 11%.
+AUD-EXC-0059,EXC-0059,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 19%.
+AUD-EXC-0060,EXC-0060,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0061,EXC-0061,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0062,EXC-0062,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0063,EXC-0063,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0064,EXC-0064,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0065,EXC-0065,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0066,EXC-0066,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0067,EXC-0067,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0068,EXC-0068,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0069,EXC-0069,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 12%.
+AUD-EXC-0070,EXC-0070,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0071,EXC-0071,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0072,EXC-0072,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0073,EXC-0073,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0074,EXC-0074,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0075,EXC-0075,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0076,EXC-0076,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 8%.
+AUD-EXC-0077,EXC-0077,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0078,EXC-0078,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0079,EXC-0079,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0080,EXC-0080,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0081,EXC-0081,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0082,EXC-0082,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0083,EXC-0083,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 11%.
+AUD-EXC-0084,EXC-0084,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 12%.
+AUD-EXC-0085,EXC-0085,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0086,EXC-0086,2026-09-16 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0087,EXC-0087,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0088,EXC-0088,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 19%.
+AUD-EXC-0089,EXC-0089,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0090,EXC-0090,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0091,EXC-0091,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0092,EXC-0092,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0093,EXC-0093,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0094,EXC-0094,2026-09-14 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0095,EXC-0095,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0096,EXC-0096,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0097,EXC-0097,2026-09-11 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0098,EXC-0098,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0099,EXC-0099,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0100,EXC-0100,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0101,EXC-0101,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0102,EXC-0102,2026-09-12 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Purchase order price differs from current contractual pricing.
+AUD-EXC-0103,EXC-0103,2026-09-17 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0104,EXC-0104,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice payment conditions violate policy.
+AUD-EXC-0105,EXC-0105,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Order records contain conflicting state.
+AUD-EXC-0106,EXC-0106,2026-09-15 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Shipment missed committed delivery date.
+AUD-EXC-0107,EXC-0107,2026-09-10 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,"Invoice shares supplier, PO and amount with another invoice."
+AUD-EXC-0108,EXC-0108,2026-09-13 00:00:00,DETECTION,exception_detector,CREATE_EXCEPTION,OPEN,Rule-based exception detected.,Invoice amount differs from PO amount by 19%.
