@@ -216,3 +216,10 @@ def get_exception_investigation(exception_id:str):
         })
     finally:
         conn.close()
+@app.get("/")
+def root():
+    return {
+        "service":"Autonomous Enterprise Exception Resolution Engine",
+        "status":"online",
+        "health":"/api/health"
+    }
